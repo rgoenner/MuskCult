@@ -1,1 +1,1 @@
-farT FART fart
+type anything
